@@ -1,0 +1,37 @@
+baseurl = "https://ringier-data.github.io"
+DefaultContentLanguage = "en"
+title = "Welcome"
+theme = "beautifulhugo"
+disclaimerText = "Copyright © 2023 Ringier AG, Zürich, Switzerland. All rights reserved."
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+subtitle = "Glad to have you with RingierConnect+"
+mainSections = ["post","posts"]
+logo = "img/ringier-logo.png" # Expecting square dimensions
+favicon = "img/favicon.ico"
+dateFormat = "January 2, 2006"
+commit = false
+rss = false
+comments = false
+readingTime = true
+wordCount = true
+useHLJS = true
+socialShare = false
+delayDisqus = true
+showRelatedPosts = false
+hideAuthor = true
+
+[Author]
+# Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+name = "admin"
+website = "ringier-data.github.io"
+email = "welcome@rcplus.io"
