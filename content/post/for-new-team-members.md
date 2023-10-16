@@ -47,5 +47,5 @@ redirected back to https://ringier.okta.com for authentication if you are not lo
 There is IdP federation configured behind the system: we ask the Ringier corporate tenant to authenticate you without requiring you to
 create another set of credential.
 
-Once you get in, you should be able to access the [2nd half of this document](https://doc.p.alloy.rcplus.io/dev/category/development-environment)
+Once you get in, you should be able to access the [2nd half of this document](https://doc.p.alloy.rcplus.io/dev/devenv/generic)
 to continue setting up your work environment.
