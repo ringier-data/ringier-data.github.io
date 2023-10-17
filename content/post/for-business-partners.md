@@ -29,9 +29,19 @@ This completes the enrollment process.
 
 ## Special notes
 
-### for controllers who need to access the AWS Cost Dashboard and Invoices
+### Alloy Cockpit
 
-Please contact one of the following administrators mentioning that you need to access the billing admin role of the AWS Organization:
-* Andrea Artaria (andrea.artaria@ringier.ch)
-* Erik Jonsson Thorén (erik.jonsson@ringier.ch)
-* Zhao Wang (zhao.wang@ringier.ch)
+Please contact one of the following colleagues to grant you the initial access:
+* Zhao Wang
+* Andrea Artaria
+* Erik Jonsson Thorén
+
+Without it, https://rcplus.okta.com would authenticate you successfully without authorizing you for anything except for seeing an error
+page.
+
+Once you finished the steps of RC+ enrollment, please navigate to https://platform.alloy.ch. It would bring you an empty Alloy Cockpit.
+Please contact the administrators again telling them you need a proper role for Alloy Cockpit. 
+
+### AWS Billing Dashboard for costs and invoices
+
+Please contact one of the same administrators above mentioning that you need to access the billing admin role of the AWS Organization.
