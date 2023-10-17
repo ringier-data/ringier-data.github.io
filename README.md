@@ -1,6 +1,6 @@
 # ringier-data.github.io
 
-Current version: **v0.1.0**
+Current version: **v0.1.1**
 
 Instructions for the new team members or business partners to enable the access to protected resources and information.
 
